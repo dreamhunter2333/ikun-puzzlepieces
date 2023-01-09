@@ -31,5 +31,5 @@ python -m venv ./venv
 
 ## 参考
 
-[https://github.com/CharlesPikachu/Games](https://github.com/CharlesPikachu/Games)
-[字体 LxgwWenKai](https://github.com/lxgw/LxgwWenKai/releases/tag/v1.245.1)
+- [https://github.com/CharlesPikachu/Games](https://github.com/CharlesPikachu/Games)
+- [字体 LxgwWenKai](https://github.com/lxgw/LxgwWenKai/releases/tag/v1.245.1)
